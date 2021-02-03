@@ -1,0 +1,24 @@
+
+\
+java:S2259¢"@A "NullPointerException" could be thrown; "in" is nullable here.(€¶º‡ýÿÿÿÿ
+J
+java:S2755„"3Disable access to external entities in XML parsing.(ž©›ï
+\	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(¢©í›
+a	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+u
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(³Íœ»ûÿÿÿÿ
+u
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(³Íœ»ûÿÿÿÿ
+a
+java:S11927"FDefine a constant instead of duplicating this literal "value" 4 times.(½ýØ„üÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÇôŒ•ÿÿÿÿÿ
+F
+java:S3740±"/Provide the parametrized type for this generic.(¥•ñ‡
+`	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(š¿âÑúÿÿÿÿ
+K
+java:S3740É"/Provide the parametrized type for this generic.(±€ç±úÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(Šì£½
+I
+java:S2755("3Disable access to external entities in XML parsing.(ž©›ï
