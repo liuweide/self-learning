@@ -1,6 +1,8 @@
 
-`	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ
-o
-java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(είΫ
+`	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ
 E
 java:S3740"/Provide the parametrized type for this generic.(Ί›‚™
+P
+java:S1874%"3Remove this use of "newInstance"; it is deprecated.(΅Ά³8‘²ΙΫφ.
+o
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(είΫ

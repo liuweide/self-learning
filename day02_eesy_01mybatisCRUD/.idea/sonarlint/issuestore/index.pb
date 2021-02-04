@@ -9,3 +9,7 @@ _
 /src/test/java/com/example/test/MybatisTest.java,0\2\02803be952d1fad4807b6b7a35e6149f76f16bcf
 ]
 -src/main/java/com/example/domain/QueryVo.java,a\2\a2fc63b8cb5e0c0961ed0c1724da28b9ba6c3aa3
+[
++src/main/java/com/itheima/dao/IUserDao.java,c\6\c6679fb64a66560866077a363625cba9fc5e2d9f
+_
+/src/test/java/com/itheima/test/MybatisTest.java,e\c\ec88b3a3af6309657e310480f5df54d20d3f0199
