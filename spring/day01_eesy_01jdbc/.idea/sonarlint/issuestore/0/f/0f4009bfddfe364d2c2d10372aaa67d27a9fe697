@@ -1,0 +1,7 @@
+
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ìæÜÕ8³½”ƒø.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÔĞÂ28³ìƒø.
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(çƒñğ8³ìƒø.
+X	java:S125"<This block of commented-out lines of code should be removed.(—ÃÈİ8èÿŒ„ø.
